@@ -1,0 +1,91 @@
+New York#Brooklyn Library - Central Library#	10 Grand Army Plaza#Brooklyn#11238#0#0
+New York#	Brooklyn Library - Clinton Hill Library#	380 Washington Ave. at Lafayette Ave.#	Brooklyn#11238#	0#	0
+New York#	Brooklyn Library - Coney Island Library#	1901 Mermaid Ave. (Near W. 19th St.)#	Brooklyn#11224#	0#	0
+New York#	Brooklyn Library - Crown Heights Library#	560 New York Ave. at Maple St.#	Brooklyn#11225#	0#	0
+New York#	Brooklyn Library - Flatbush Library#	22 Linden Blvd. at Flatbush Ave.#	Brooklyn#11226#	0#	0
+New York#	Brooklyn Library - Fort Hamilton Library#	9424 Fourth Ave.#	Brooklyn#11209#	0#	0
+New York#	Brooklyn Library - Greenpoint Library#	107 Norman Ave. at Leondard St.#	Brooklyn#11222#	0#	0
+New York#	Brooklyn Library - Kings Highway Library#	2115 Ocean Ave.#	Brooklyn#11229#	0#	0
+New York#	Brooklyn Library - Midwood Library#	975 East 16th St. at Avenue J#	Brooklyn#11230#	0#	0
+New York#	Brooklyn Library - Mill Basin Library#	2385 Ralph Ave (near Ave N)#	Brooklyn#11234#	0#	0
+New York#	Brooklyn Library - Red Hook Library#	7 Wolcott St.#	Brooklyn#11231#	0#	0
+New York#	NYPL - Hamilton Fish Park Library#	415 East Houston Street#	New York#10002#	0#	0
+New York#	NYPL - 125th Street Library#	224 East 125th Street#	New York#10035#	0#	0
+New York#	NYPL - 53rd Street Library#	18 West 53rd Street#	New York#10019#	0#	0
+New York#	NYPL - 58th Street Library#	127 East 58th Street#	New York#10022#	0#	0
+New York#	NYPL - 67th Street Library#	328 East 67th Street#	New York#10065#	0#	0
+New York#	NYPL - Aguilar Library#	174 East 110th Street#	New York#10029#	0#	0
+New York#	NYPL - Allerton Library#	2740 Barnes Avenue#	Bronx#10467#	0#	0
+New York#	NYPL - Andrew Heiskell Braille and Talking Book Library#	40 West 20th Street#	New York#10011#	0#	0
+New York#	NYPL - Battery Park City Library#	175 North End Avenue#	New York#10282#	0#	0
+New York#	NYPL - Baychester Library#	2049 Asch Loop North#	Bronx#10475#	0#	0
+New York#	NYPL - Belmont Library and Enrico Fermi Cultural Center#	610 East 186th Street#	Bronx#10458#	0#	0
+New York#	NYPL - Bloomingdale Library#	150 West 100th Street#	New York#10025#	0#	0
+New York#	NYPL - Bronx Library Center#	310 East Kingsbridge Road#	Bronx#10458#	0#	0
+New York#	NYPL - Chatham Square Library#	33 East Broadway#	New York#10002#	0#	0
+New York#	NYPL - City Island Library#	320 City Island Avenue#	Bronx#10464#	0#	0
+New York#	NYPL - Clason's Point Library#	1215 Morrison Avenue#	Bronx#10472#	0#	0
+New York#	NYPL - Columbus Library#	742 10th Avenue#	New York#10019#	0#	0
+New York#	NYPL - Countee Cullen Library#	104 West 136th Street#	New York#10030#	0#	0
+New York#	NYPL - Dongan Hills Library#	1617 Richmond Road#	Staten Island#10304#	0#	0
+New York#	NYPL - Eastchester Library#	1385 East Gun Hill Road#	Bronx#10469#	0#	0
+New York#	NYPL - Epiphany Library#	228 East 23rd Street#	New York#10010#	0#	0
+New York#	NYPL - Francis Martin Library#	2150 University Avenue#	Bronx#10453#	0#	0
+New York#	NYPL - Yorkville Library#	222 East 79th Street#	New York#10075#	0#	0
+New York#	NYPL - Woodstock Library#	761 East 160th Street#	Bronx#10456#	0#	0
+New York#	NYPL - Woodlawn Heights Library#	4355 Katonah Avenue#	Bronx#10470#	0#	0
+New York#	NYPL - Westchester Square Library#	2521 Glebe Avenue#	Bronx#10461#	0#	0
+New York#	NYPL - West New Brighton Library#	976 Castleton Avenue#	Staten Island#10310#	0#	0
+New York#	NYPL - West Farms Library#	2085 Honeywell Avenue#	Bronx#10460#	0#	0
+New York#	NYPL - Webster Library#	1465 York Avenue#	New York#10075#	0#	0
+New York#	NYPL - Washington Heights Library#	1000 St. Nicholas Avenue#	New York#10032#	0#	0
+New York#	NYPL - Wakefield Library#	4100 Lowerre Place#	Bronx#10466#	0#	0
+New York#	NYPL - Van Cortlandt Library#	3882 Cannon Place#	Bronx#10463#	0#	0
+New York#	NYPL - Tremont Library#	1866 Washington Avenue#	Bronx#10457#	0#	0
+New York#	NYPL - Tottenville Library#	7430 Amboy Road#	Staten Island#10307#	0#	0
+New York#	NYPL - Tompkins Square Library#	331 East 10th Street#	New York#10009#	0#	0
+New York#	NYPL - Todt Hill - Westerleigh Library#	2550 Victory Boulevard#	Staten Island#10314#	0#	0
+New York#	NYPL - Throg's Neck Library#	3025 Cross Bronx Expressway#	Bronx#10465#	0#	0
+New York#	"The New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center#"	40 Lincoln Center Plaza (65th St and Columbus Ave)#	New York#10023#	0#	0
+New York#	NYPL - Terence Cardinal Cooke - Cathedral Library#	560 Lexington Avenue#	New York#10022#	0#	0
+New York#	NYPL - Stephen A. Schwarzman Building#	Fifth Avenue and 42nd Street#	New York#10018#	0#	0
+New York#	Stavros Niarchos Foundation Library (SNFL)#	455 Fifth Avenue#	New York#10016#	0#	0
+New York#	NYPL - Stapleton Library#	132 Canal St.#	Staten Island#	10304#	0#	0
+New York#	NYPL - St. George Library Center#	5 Central Avenue#	Staten Island#10301#	0#	0
+New York#	NYPL - Spuyten Duyvil Library#	650 W. 235th St.#	Bronx#10463#	0#	0
+New York#	NYPL - South Beach Library#	21-25 Robin Road#	Staten Island#10305#	0#	0
+New York#	NYPL - Soundview Library#	660 Soundview Avenue#	Bronx#10473#	0#	0
+New York#	NYPL - Seward Park Library#	192 East Broadway#	New York#10002#	0#	0
+New York#	NYPL - Sedgwick Library#	"1701 Martin Luther King, Jr. Blvd.#"	Bronx#10453#	0#	0
+New York#	NYPL - Roosevelt Island Library#	504 Main Street#	New York#10044#	0#	0
+New York#	NYPL - Riverside Library#	127 Amsterdam Avenue#	New York#10023#	0#	0
+New York#	NYPL - Riverdale Library#	5540 Mosholu Avenue#	Bronx#10471#	0#	0
+New York#	NYPL - Richmondtown Library#	200 Clarke Avenue#	Staten Island#10306#	0#	0
+New York#	NYPL - Port Richmond Library#	75 Bennett Street#	Staten Island#10302#	0#	0
+New York#	NYPL - Pelham Parkway-Van Nest Library#	2147 Barnes Avenue#	Bronx#10462#	0#	0
+New York#	NYPL - Pelham Bay Library#	3060 Middletown Road#	Bronx#10461#	0#	0
+New York#	NYPL - Parkchester Library#	1985 Westchester Avenue#	Bronx#10462#	0#	0
+New York#	NYPL - Ottendorfer Library#	135 Second Avenue#	New York#10003#	0#	0
+New York#	NYPL - New Dorp Library#	309 New Dorp Lane#	Staten Island#10306#	0#	0
+New York#	NYPL - New Amsterdam Library#	9 Murray Street#	New York#10007#	0#	0
+New York#	NYPL - Mulberry Street Library#	10 Jersey Street#	New York#10012#	0#	0
+New York#	NYPL - Muhlenberg Library#	209 West 23rd Street#	New York#10011#	0#	0
+New York#	NYPL - Mott Haven Library#	321 East 140th Street#	Bronx#10454#	0#	0
+New York#	NYPL - Morris Park Library#	985 Morris Park Avenue#	Bronx#10462#	0#	0
+New York#	NYPL - Morningside Heights Library#	2900 Broadway Ave.#	New York#10025#	0#	0
+New York#	NYPL - Melrose Library#	910 Morris Avenue#	Bronx#10451#	0#	0
+New York#	NYPL - Mariners Harbor Library#	206 South Ave#	Staten Island#10303#	0#	0
+New York#	NYPL - Macomb's Bridge Library#	"2633 Adam Clayton Powell, Jr. Blvd.#"	New York#10039#	0#	0
+New York#	NYPL - Kips Bay Library#	446 Third Avenue#	New York#10016#	0#	0
+New York#	NYPL - Kingsbridge Library#	291 West 231st Street#	Bronx#10463#	0#	0
+New York#	NYPL - Jerome Park Library#	118 Eames Place#	Bronx#10468#	0#	0
+New York#	NYPL - Jefferson Market Library#	425 Avenue of the Americas#	New York#10011#	0#	0
+New York#	NYPL - Inwood Library#	4857 Broadway#	New York#10034#	0#	0
+New York#	NYPL - Hunts Point Library#	877 Southern Boulevard#	Bronx#10459#	0#	0
+New York#	NYPL - Huguenot Park Library#	830 Huguenot Avenue#	Staten Island#10312#	0#	0
+New York#	NYPL - Harlem Library#	9 West 124th Street#	New York#10027#	0#	0
+New York#	NYPL - Hamilton Grange Library#	503 West 145th Street#	New York#10031#	0#	0
+New York#	NYPL - Great Kills Library#	56 Giffords Lane#	Staten Island#10308#	0#	0
+New York#	NYPL - Grand Concourse Library#	155 East 173rd Street#	Bronx#10457#	0#	0
+New York#	NYPL - Grand Central Library#	135 East 46th Street#	New York#10017#	0#	0
+New York#	NYPL - George Bruce Library#	518 West 125th Street#	New York#10027#	0#	0
