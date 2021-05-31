@@ -1,1 +1,54 @@
-<h1>hello world</h1>
+<!doctype html>
+
+<html>
+    <head>
+    <title>#DegreesNYC</title>
+        <link rel="stylesheet" href="styles.css">
+        
+
+    </head>
+
+        
+    <body style="background-color:white;">
+        <p style="text-align:center;"><img src="https://degreesnyc.files.wordpress.com/2019/01/degreesnyc_lrg.jpg?w=366&h=94" alt="Logo"></p>
+        <h2 style="text-align:center;">Policy Agenda Priority: Digital Divide</h1>
+
+        <form action= "/" method = "GET">
+            <div style="background-color:rgb(237, 148, 109);">
+
+                 <br/>
+                <br/> 
+                <br/>
+                <br/>
+                <label> What is your zip code?</label>
+                <input class= "form-control" type="text" name="zip_entry">
+                <br/>
+                <br/>
+                <button type= "submit" value="search" class="btn btn-primary"> Submit</button>
+                 <br/>
+                <br/> 
+                <br/>
+                <br/>
+                
+            </div>
+        </form>
+        {% if zip %}
+        <h3> Here are places where you can get public computer and wifi access in {{zip}} : </h3>
+        <div id="rectangle" style="background-color:rgb(151, 216, 240);">
+             {% for market in markets %}
+            <br/>
+            <br/>
+            <b> {{market.market_name}} </b><br/>
+            {{market.street_address}}<br/>
+            {{market.city}}, {{market.state}} {{market.zip_code}} <br/><br/>
+            {% endfor %}
+        {% endif %}
+        
+        
+
+        <br/>
+        </div>
+    
+    
+    </body>
+</html>
