@@ -1,7 +1,7 @@
 from flask import Flask, redirect, url_for, render_template, request
 from digitaldivide import read_markets, Market
 app = Flask (__name__)
-app.config['SERVER_NAME'] = "localhost:5000"
+#app.config['SERVER_NAME'] = "localhost:5000"
 
 
 @app.route("/", methods=["GET", "POST"])
